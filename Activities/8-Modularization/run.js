@@ -19,3 +19,10 @@ console.log(stuffINeed.nicetohaves);
 console.log("--------------------------");
 console.log("Nonessentials");
 console.log(stuffINeed.nonessentials);
+
+console.log("--------------------------");
+console.log("bands");
+console.log(stuffINeed.bands);
+
+console.log('mycode');
+console.log(stuffINeed.mycode);

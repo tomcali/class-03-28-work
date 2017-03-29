@@ -15,3 +15,13 @@ exports.nicetohaves = {
 var nonessentials = {
   cookware: "wafflemaker"
 };
+
+exports.bands = {
+  names: ['Supertramp', 'Beatles'],
+  albums: ['Breakfast in America', 'Abby Road']
+};
+
+exports.mycode = {
+  method1: 'console.log("this is method1")'
+};
+
